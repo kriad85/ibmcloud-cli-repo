@@ -1,0 +1,6 @@
+{
+  "latest-regions-checked": "2020-07-24T07:00:10-07:00",
+  "registry-config-ibmcloud-region": "eu-de",
+  "registry-config-icr-regions-list": "[{\"name\":\"us-south\",\"registryUrls\":[\"registry.ng.bluemix.net\",\"us.icr.io\"],\"aliases\":[\"ng\",\"dallas\",\"usa\"],\"primaryDomain\":\"icr.io\"},{\"name\":\"uk-south\",\"registryUrls\":[\"registry.eu-gb.bluemix.net\",\"uk.icr.io\"],\"aliases\":[\"eu-gb\",\"london\",\"uk\"],\"primaryDomain\":\"icr.io\"},{\"name\":\"eu-central\",\"registryUrls\":[\"registry.eu-de.bluemix.net\",\"de.icr.io\"],\"aliases\":[\"eu-de\",\"frankfurt\",\"germany\"],\"primaryDomain\":\"icr.io\"},{\"name\":\"ap-south\",\"registryUrls\":[\"registry.au-syd.bluemix.net\",\"au.icr.io\"],\"aliases\":[\"au-syd\",\"sydney\",\"australia\"],\"primaryDomain\":\"icr.io\"},{\"name\":\"international\",\"registryUrls\":[\"registry.bluemix.net\",\"icr.io\"],\"aliases\":[\"global\"],\"primaryDomain\":\"icr.io\"},{\"name\":\"ap-north\",\"registryUrls\":[\"jp.icr.io\"],\"aliases\":[\"jp-tok\",\"japan\",\"tokyo\"],\"primaryDomain\":\"icr.io\"}]",
+  "registry-config-region": "eu-central"
+}
